@@ -1,0 +1,8 @@
+/Users/paulfranco/Desktop/collections_practice/bin/Debug/netcoreapp1.1/collections_practice.deps.json
+/Users/paulfranco/Desktop/collections_practice/bin/Debug/netcoreapp1.1/collections_practice.runtimeconfig.json
+/Users/paulfranco/Desktop/collections_practice/bin/Debug/netcoreapp1.1/collections_practice.runtimeconfig.dev.json
+/Users/paulfranco/Desktop/collections_practice/bin/Debug/netcoreapp1.1/collections_practice.dll
+/Users/paulfranco/Desktop/collections_practice/bin/Debug/netcoreapp1.1/collections_practice.pdb
+/Users/paulfranco/Desktop/collections_practice/obj/Debug/netcoreapp1.1/collections_practice.AssemblyInfo.cs
+/Users/paulfranco/Desktop/collections_practice/obj/Debug/netcoreapp1.1/collections_practice.dll
+/Users/paulfranco/Desktop/collections_practice/obj/Debug/netcoreapp1.1/collections_practice.pdb
